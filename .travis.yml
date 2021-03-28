@@ -1,4 +1,6 @@
 language: java
+
 script:
   - cd pipe-line
   - mvn clean install
+  
