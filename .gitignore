@@ -29,3 +29,7 @@ pipe-line/pipe-line/.mvn/wrapper/maven-wrapper.properties
 pipe-line/pipe-line/.mvn/wrapper/MavenWrapperDownloader.java
 pipe-line/pipe-line/mvnw
 *.cmd
+*.original
+*.lst
+*.txt
+*.md
